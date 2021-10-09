@@ -49,6 +49,7 @@ body, input, button, select, textarea {
     padding: 10px;
     position: relative;
     border-bottom: 3px solid #f9f9f9;
+    cursor: pointer;
 }
 .accordion_content.active .accordion_text {
     height: 300px!important;
