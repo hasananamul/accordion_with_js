@@ -34,7 +34,7 @@ body, input, button, select, textarea {
     margin: 0;
     color: brown;
     padding: 5px;
-    cursore:pointer;
+    cursor: pointer;
 }
 .accordion_content .accordion_text p {
     font-size: 16px;
